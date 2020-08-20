@@ -1,0 +1,58 @@
+[
+  {
+    "id" : 0,
+    "nombre" : "PAN GALLEGO",
+    "ingredientes" : " Pan de costra dura y miga suave elaborado con masa madre, de forma redonda. Es un pan rustico",
+    "precio": 6000,
+    "imagen": "https://i.ibb.co/zPKhwQ5/pan-gallego.jpg"
+  },
+  {
+    "id": 1,
+    "nombre": " CACHITO DE JAMÓN ",
+    "ingredientes": " Especie de pan endulzado relleno con picadillo de jamón y enrollado para luego llevar al horno",
+    "precio": 5000,
+    "imagen": "https://i.ibb.co/bjhFdns/cachito-de-jamon.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "GOLFEADO",
+    "ingredientes": "Pan enrollado con una forma similar a la de un caracol y en sus pliegues está relleno con una mezcla de papelón o panela rallada y queso blanco, aromatizados con anís en especie y luego de horneados se bañan con panela o papelón líquido " ,
+    "precio": 4500,
+    "imagen": "https://i.ibb.co/h8jwRPJ/golfeado.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "BOMBA",
+    "ingredientes": "Masa que luego de ser frita en aceite  se pasan por azúcar y se  rellenan de crema pastelera",
+    "precio": 5000,
+    "imagen": "https://i.ibb.co/9c1FWgD/bomba.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "QUESADILLA",
+    "ingredientes": "Pan dulce relleno de una mezcla dulce de queso blanco con huevo, leche y azúcar",
+    "precio": 4500,
+    "imagen": "https://i.ibb.co/r6zSmbn/quesadilla.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "AMBROSÍA" ,
+    "ingredientes": "Pan dulce, esponjoso, suave y redondo. Intervenido con uvas pasas, frutas confitadas y con sabor a naranja",
+    "precio": 3000,
+    "imagen": "https://i.ibb.co/zS9S9gD/ambrosia.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "PAN DE JAMÓN",
+    "ingredientes": "Pan relleno de jamón, tocineta ahumada, uvas pasas y aceitunas verdes",
+    "precio": 45000,
+    "imagen": "https://i.ibb.co/wc1ZhgS/pan-de-jamon.jpg"
+  },
+  {
+    "id": 7 ,
+    "nombre": "ROLES DE CANELA",
+    "ingredientes": "Pan dulce enrollado y relleno de azúcar , mantequilla y canela molida",
+    "precio": 4500,
+    "imagen": "https://i.ibb.co/yYN5x5q/roles-de-canela.jpg"
+  }
+]
